@@ -16,7 +16,7 @@ RMDB 由中国人民大学数据库教学团队开发，同时得到教育部-�
 
 TPC-C 测试结果：**32,820** txns/min
 
-<img src="image.png" style="zoom:50%;" />
+<img src="image.png" width=50% />
 
 ## 实验环境：
 
