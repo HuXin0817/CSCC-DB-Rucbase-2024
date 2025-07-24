@@ -60,6 +60,10 @@
 
 TPC-C 测试结果：**32,820** txns/min
 
+---
+
+## RMDB
+
 <img src="image.png" width=50% />
 
 <div align="center">
